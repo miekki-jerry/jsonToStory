@@ -14,6 +14,8 @@ NOTE:I'm using these voices only for personal usage. They are not my property.
 
 https://github.com/miekki-jerry/jsonToStory/blob/main/SCR-20231118-k8t.png
 
+![SCR-20231118-k8t](https://github.com/miekki-jerry/jsonToStory/assets/100033698/1a06434b-56ef-447e-80e5-72931d40e44c)
+
 ## Features
 
 - **JSON to TTS Conversion**: Converts dialogues from JSON files into spoken words using advanced TTS services.
