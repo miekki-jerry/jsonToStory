@@ -9,7 +9,10 @@ The app is built for writers, storytellers, and anyone interested in converting 
 
 ## Example output
 https://github.com/miekki-jerry/jsonToStory/blob/main/exmple_output.mp3
+
 NOTE:I'm using these voices only for personal usage. They are not my property.
+
+https://github.com/miekki-jerry/jsonToStory/blob/main/SCR-20231118-k8t.png
 
 ## Features
 
