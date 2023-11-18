@@ -6,6 +6,8 @@ Welcome to the Novel Narration App from JSON! This project is a simple, yet inno
 
 The app is built for writers, storytellers, and anyone interested in converting their written dialogues into engaging audio formats. It's particularly exciting for those looking to add an auditory dimension to their stories without the need for professional voice actors.
 
+### THIS IS THE PART OF BIGGER PICTURE
+Here is the first part: https://github.com/miekki-jerry/autogen-advisors/
 
 ## Example output
 https://github.com/miekki-jerry/jsonToStory/blob/main/exmple_output.mp3
@@ -67,6 +69,7 @@ You can use my personal GPT's
 https://chat.openai.com/g/g-LNKK6KCcR-story-teller-from-problems
 
 This program is part of a bigger picture but it's fun so I published.
+
 
 ## Conclusion
 
